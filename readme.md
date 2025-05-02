@@ -38,7 +38,7 @@ This repository is organized into several subtopics for easy reference and modul
 | 📜 Licensing | MySQL licensing models and deployment considerations. | [View Repository](licensing.md) |
 | 🛠️ Support | Understanding Oracle support services and escalation. | [View Repository](support.md) |
 | ⚙️ Tools & Advanced Features (Part 1) | Installation, architecture, security, and user management. | [View Repository](tools-and-advanced-features-part1.md) |
-| ⚙️ Tools & Advanced Features (Part 2) | Backup, replication, high availability, and monitoring. | [View Repository](./tools-and-advanced-features-part2) |
+| ⚙️ Tools & Advanced Features (Part 2) | Backup, replication, high availability, and monitoring. | [View Repository](tools-and-advanced-features-part2.md) |
 | ☁️ MySQL HeatWave in the Cloud | End-to-end MySQL HeatWave service overview and use cases. | [View Repository](./mysql-heatwave-cloud) |
 
 ---
