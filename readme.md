@@ -33,6 +33,7 @@ By completing this course, you will be able to:
 This repository is organized into several subtopics for easy reference and modular learning:
 
 1. mySQL Enterprise
+
 | Subtopic | Description | Link |
 |----------|-------------|------|
 | 🧭 Introduction | Overview of MySQL and its role in modern IT infrastructure. | [View Repository](introduction.md) |
