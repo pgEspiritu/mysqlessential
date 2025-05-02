@@ -32,7 +32,7 @@ By completing this course, you will be able to:
 
 This repository is organized into several subtopics for easy reference and modular learning:
 
-1. mySQL Enterprise
+#1. MySQL Enterprise Edition
 
 | Subtopic | Description | Link |
 |----------|-------------|------|
@@ -42,6 +42,18 @@ This repository is organized into several subtopics for easy reference and modul
 | ⚙️ Tools & Advanced Features (Part 1) | Installation, architecture, security, and user management. | [View Repository](tools-and-advanced-features-part1.md) |
 | ⚙️ Tools & Advanced Features (Part 2) | Backup, replication, high availability, and monitoring. | [View Repository](tools-and-advanced-features-part2.md) |
 | ☁️ MySQL HeatWave in the Cloud | End-to-end MySQL HeatWave service overview and use cases. | [View Repository](mysql-heatwave-cloud.md) |
+
+---
+
+#2. MySQL Enterprise Edition
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🏗️ Installation and Architecture | Overview of MySQL installation process and architectural components. | [View Repository](installation-and-architecture.md) |
+| 💾 Installing MySQL | Step-by-step guide to installing MySQL on various platforms. | [View Repository](installing-mysql.md) |
+| 👥 Initial User Accounts | Default users and best practices for managing user access. | [View Repository](initial-user-accounts.md) |
+| ⚙️ Initial Configuration | Basic configuration settings for optimal performance and security. | [View Repository](initial-configuration.md) |
+| 🔄 Upgrading MySQL | Methods and considerations for safely upgrading MySQL versions. | [View Repository](upgrading-mysql.md) |
 
 ---
 
