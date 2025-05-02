@@ -34,7 +34,7 @@ This repository is organized into several subtopics for easy reference and modul
 
 | Subtopic | Description | Link |
 |----------|-------------|------|
-| 🧭 Introduction | Overview of MySQL and its role in modern IT infrastructure. | [View Repository](./introduction) |
+| 🧭 Introduction | Overview of MySQL and its role in modern IT infrastructure. | [View Repository](introduction.md) |
 | 📜 Licensing | MySQL licensing models and deployment considerations. | [View Repository](./licensing) |
 | 🛠️ Support | Understanding Oracle support services and escalation. | [View Repository](./support) |
 | ⚙️ Tools & Advanced Features (Part 1) | Installation, architecture, security, and user management. | [View Repository](./tools-and-advanced-features-part1) |
