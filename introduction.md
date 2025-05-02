@@ -11,6 +11,7 @@ This module covers **MySQL Enterprise Edition** within the **Oracle MySQL ecosys
   - **Standard Edition**: Full transactional support for medium businesses.
   - **Enterprise Edition**: Comprehensive edition with advanced features and support.
   - **Cluster Carrier Grade Edition**: For critical applications with real-time in-memory access.
+  - **Embedded Edition**: This edition is also designed for embedding in commercial products.
   
 - <span style="color:purple">**Support Services**</span>: Oracle provides **24/7 support**, troubleshooting, and performance optimization through **MySQL Enterprise Support**.
 - <span style="color:orange">**Tools & Features**</span>: Includes advanced tools for **backup**, **monitoring**, **security**, and **query performance**, enhancing MySQL’s capabilities.
