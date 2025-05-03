@@ -25,7 +25,7 @@ A MySQL user account is defined by **three elements**:
 Upon installation:
 
 - MySQL creates **system-level accounts**.
-- The main accessible account is usually the **`root`** administrative account.
+- The main accessible account is usually the **`root`** administrative account 'root'@'localhost'.
 - Depending on your installation method:
   - The **root password** is shown in the console or
   - Found in the **MySQL log file**
