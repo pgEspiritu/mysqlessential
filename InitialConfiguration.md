@@ -81,8 +81,11 @@ You can run the MySQL server manually or configure it to start automatically:
 ### Manual Start
 ```bash
 mysqld
+```
 or
+```bash
 mysqld_safe
+```
 
 ## 🚀 Automatic Start
 
