@@ -7,6 +7,7 @@ This guide explains how to customize the initial configuration of a MySQL server
 ## 📁 Key File Locations and Variables
 
 ### `basedir`
+- **Folder**: [...]/mysql
 - **Description**: Base directory of the MySQL installation.
 - **Default Example**: `/usr/location/mysql`
 - **Tip**: You can install multiple versions in separate directories and use a symbolic link to switch between them. This makes upgrading easier.
