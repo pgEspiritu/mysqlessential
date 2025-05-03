@@ -7,17 +7,23 @@ This guide explains how to customize the initial configuration of a MySQL server
 ## 📁 Key File Locations and Variables
 
 ### `basedir`
-- **Folder**: [...]/mysql
+- **Folder**: [...]/mysql/mysql-X
 - **Description**: Base directory of the MySQL installation.
 - **Default Example**: `/usr/location/mysql`
 - **Tip**: You can install multiple versions in separate directories and use a symbolic link to switch between them. This makes upgrading easier.
 
 ### `datadir`
+- **Folder**: [...]/mysql/data
 - **Description**: Location where databases are stored.
 - **Default**: `/var/lib/mysql`
 - **Tip**: Place this on a fast, redundant disk array to improve performance and minimize downtime during hardware failures.
 
 ### Logs and Temporary Files
+- **Folder (Store Logs)**: [...]/mysql/logs
+- **Folder (Temporary Files)**: [...]/mysql/temp
+- **Folder (Read Files to Upload)**: [...]/mysql/uploads
+- **Folder (With Configuration Files)**: [...]/mysql/etc
+- **Folder (With Binary Logs)**: [...]/mysql/binlogs
 - **Error Logs**: By default, stored in `/var/log/mysql`
 - **CSV & Temp Files**: Configurable locations used for `LOAD DATA` and other operations.
 - **Binary Logs**: Useful for replication and incremental backups.
