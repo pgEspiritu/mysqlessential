@@ -71,3 +71,18 @@ Uses both lname and fname in the compound index.
 ```sql
 SELECT * FROM customers WHERE id = 123;
 ```
+
+Direct lookup using the Primary Key.
+
+### Optimized Query with Specific Columns:
+
+```sql
+SELECT fname FROM customers WHERE lname = 'Smith';
+```
+
+Fulfilled directly by the idx_name index without a primary index lookup.
+
+### 🔗 Additional Resources
+- [MySQL Indexing Documentation](https://dev.mysql.com/doc/refman/8.0/en/indexes.html)
+- [Optimizing Query Performance](https://dev.mysql.com/doc/refman/8.0/en/query-optimization.html)
+- [MySQL Enterprise Monitor](https://www.mysql.com/products/enterprise/monitor.html)
