@@ -57,6 +57,19 @@ This repository is organized into several subtopics for easy reference and modul
 
 ---
 
+## 3. MySQL Installation and Architecture
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🏗️ Installation and Architecture | Overview of MySQL installation process and architectural components. | [View Repository](MySQLInstallationandArchitecture.md) |
+| 💾 Installing MySQL | Step-by-step guide to installing MySQL on various platforms. | [View Repository](InstallingMySQL.md) |
+| 👥 Initial User Accounts | Default users and best practices for managing user access. | [View Repository](InitialUserAccount.md) |
+| ⚙️ Initial Configuration | Basic configuration settings for optimal performance and security. | [View Repository](InitialConfiguration.md) |
+| 🔄 Upgrading MySQL | Methods and considerations for safely upgrading MySQL versions. | [View Repository](UpgradingMySQL.md) |
+
+---
+
+
 ## 💡 Ideal For
 
 This course is ideal for:
