@@ -58,12 +58,16 @@ CREATE TABLE customers (
 ### Select by Last Name:
 ```sql
 SELECT * FROM customers WHERE lname = 'Smith';
-
+```
 Uses the compound index on lname, fname.
 
-Select by Last and First Name:
-
+###Select by Last and First Name:
+```sql
 SELECT * FROM customers WHERE lname = 'Smith' AND fname = 'John';
-
+```
 Uses both lname and fname in the compound index.
+
+###Select by Primary Key:
+```sql
+SELECT * FROM customers WHERE id = 123;
 ```
