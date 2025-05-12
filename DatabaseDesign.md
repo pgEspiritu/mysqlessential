@@ -76,3 +76,39 @@ ROLLBACK;
 
 -- Only this INSERT will persist as it is executed after ROLLBACK
 INSERT INTO orders (customer_id, order_date) VALUES (3, '2025-05-12');
+
+```
+
+## 🚀 Autocommit Mode  
+
+- **Enabled by Default:** Each DML statement (`INSERT`, `UPDATE`, `DELETE`) is committed automatically.  
+
+### To Control Transaction Behavior:  
+- Use `START TRANSACTION` or `BEGIN` to temporarily disable autocommit.  
+- Manually use `COMMIT` or `ROLLBACK` as needed.  
+
+---
+
+## 🔍 Indexing and Data Retrieval  
+
+- **InnoDB** uses **B-tree structures** to organize data.  
+- Indexes are stored similarly to data, allowing for quick access and retrieval.  
+- Use indexes to optimize query performance and reduce response time.  
+
+---
+
+## 🗄️ Data Partitioning  
+
+Partitioning allows data to be divided into smaller, more manageable parts:  
+
+- Improves performance for large datasets.  
+- Enables distribution of data across different locations.  
+- Can be configured based on `range`, `list`, `hash`, or `key` values.  
+
+---
+
+## 📚 Additional Resources  
+
+- [MySQL InnoDB Documentation](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html)  
+- [MySQL Partitioning](https://dev.mysql.com/doc/refman/8.0/en/partitioning.html)  
+- [MySQL Transactions](https://dev.mysql.com/doc/refman/8.0/en/commit.html)  
