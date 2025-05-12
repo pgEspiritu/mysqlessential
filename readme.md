@@ -69,6 +69,17 @@ This repository is organized into several subtopics for easy reference and modul
 
 ---
 
+## 4. MySQL Database Design
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🗂️ Database Design | Overview of the principles of database design in MySQL. | [View Repository](DatabaseDesign.md) |
+| 📊 Databases and Tables | Introduction to creating and managing databases and tables in MySQL. | [View Repository](DatabasesAndTables.md) |
+| 🏷️ Indexes | Explanation of index types, creation, and optimization. | [View Repository](Indexes.md) |
+| 🔗 Joins | Overview of join operations in MySQL for querying multiple tables. | [View Repository](Joins.md) |
+| ➗ Partitioning | Methods and use cases for partitioning large tables in MySQL. | [View Repository](Partitioning.md) |
+
+---
 
 ## 💡 Ideal For
 
