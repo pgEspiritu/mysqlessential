@@ -81,6 +81,18 @@ This repository is organized into several subtopics for easy reference and modul
 
 ---
 
+## 5. MySQL Security
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🔐 Database Security | Fundamentals of database security and its importance in MySQL environments. | [View Repository](DatabaseSecurity.md) |
+| 🛡️ Mitigating Risks | Strategies and best practices for reducing security vulnerabilities. | [View Repository](MitigatingRisks.md) |
+| 👤 Authentication | Basic authentication mechanisms and concepts in MySQL. | [View Repository](Authentication.md) |
+| 🧩 Authentication in MySQL Enterprise Edition | Enhanced authentication features available in MySQL Enterprise Edition. | [View Repository](AuthenticationEnterprise.md) |
+| ✅ Authorization | Managing user privileges and controlling access to database resources. | [View Repository](Authorization.md) |
+
+---
+
 ## 💡 Ideal For
 
 This course is ideal for:
