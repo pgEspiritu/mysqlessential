@@ -103,6 +103,16 @@ This course is ideal for:
 
 ---
 
+## 6. MySQL Enterprise Security Tools
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🛠️ MySQL Enterprise Security Tools | Introduction to the suite of MySQL Enterprise Edition security tools. | [View Repository](MySQLEnterpriseSecurityTools.md) |
+| 🔥 MySQL Enterprise Firewall | Overview and configuration of the MySQL Enterprise Firewall for threat protection. | [View Repository](MySQLEnterpriseFirewall.md) |
+| 🗝️ MySQL Enterprise Encryption | Features and implementation of data-at-rest encryption in MySQL. | [View Repository](MySQLEnterpriseEncryption.md) |
+
+---
+
 ## 📬 Contact & Contributions
 
 If you find this resource useful or want to contribute, feel free to fork the repo and submit pull requests. For any questions, open an issue or reach out directly.
