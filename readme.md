@@ -125,6 +125,16 @@ This course is ideal for:
 
 ---
 
+## 8. MySQL Replication
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🔄 MySQL Replication | Introduction to replication concepts and use cases in MySQL. | [View Repository](MySQLReplication.md) |
+| ⏱️ Asynchronous and Semisynchronous Replication | Comparison and implementation of asynchronous vs semisynchronous replication. | [View Repository](AsynchronousAndSynchronousReplication.md) |
+| 🌐 Replication Topologies | Common replication topologies (master-slave, multi-source, group replication) and their benefits. | [View Repository](ReplicationTopologies.md) |
+
+---
+
 ## 📬 Contact & Contributions
 
 If you find this resource useful or want to contribute, feel free to fork the repo and submit pull requests. For any questions, open an issue or reach out directly.
