@@ -135,6 +135,18 @@ This course is ideal for:
 
 ---
 
+## 9. Enabling High Availability in MySQL
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🏥 Enabling High Availability in MySQL | Overview of high availability strategies and their importance in production environments. | [View Repository](EnablingHighAvailabilityInMySQL.md) |
+| 🧩 Components | Key components required for enabling high availability in MySQL setups. | [View Repository](Components.md) |
+| ⚠️ Split Brain and Network Partitions | Understanding and mitigating split brain scenarios and network partitioning issues. | [View Repository](SplitBrainNetworkPartitions.md) |
+| 📈 Monitoring | Tools and techniques for monitoring high availability environments. | [View Repository](Monitoring.md) |
+| 🧭 Complex Topologies | Exploring advanced high availability topologies and configurations. | [View Repository](ComplexTopologies.md) |
+
+---
+
 ## 📬 Contact & Contributions
 
 If you find this resource useful or want to contribute, feel free to fork the repo and submit pull requests. For any questions, open an issue or reach out directly.
