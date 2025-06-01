@@ -113,6 +113,18 @@ This course is ideal for:
 
 ---
 
+## 7. MySQL Backup
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 💾 MySQL Backup | Introduction to backup strategies and importance of data protection. | [View Repository](MySQLBackup.md) |
+| 📂 Backup Types: Advantages and Disadvantages - Part 1 | Comparison of logical vs physical backups and their use cases. | [View Repository](BackupTypesPart1.md) |
+| 📂 Backup Types: Advantages and Disadvantages - Part 2 | Continuation: evaluating backup performance and resource impact. | [View Repository](BackupTypesPart2.md) |
+| 🧰 MySQL Enterprise Backup: Features and Benefits - Part 1 | Overview of MySQL Enterprise Backup capabilities and use cases. | [View Repository](MySQLEnterpriseBackupPart1.md) |
+| 🧰 MySQL Enterprise Backup: Features and Benefits - Part 2 | Continuation: configuration, scheduling, and advanced features. | [View Repository](MySQLEnterpriseBackupPart2.md) |
+
+---
+
 ## 📬 Contact & Contributions
 
 If you find this resource useful or want to contribute, feel free to fork the repo and submit pull requests. For any questions, open an issue or reach out directly.
