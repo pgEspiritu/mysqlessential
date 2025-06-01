@@ -147,6 +147,16 @@ This course is ideal for:
 
 ---
 
+## 10. Monitoring MySQL
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| 🧐 Monitoring MySQL | Introduction to the importance of monitoring MySQL for performance and reliability. | [View Repository](MonitoringMySQL.md) |
+| 🔧 MySQL Tools for Monitoring | Overview of native MySQL monitoring tools and how to use them effectively. | [View Repository](MySQLMonitoringTools.md) |
+| 🛠️ Oracle Tools for Monitoring | Introduction to Oracle-provided monitoring solutions for MySQL. | [View Repository](OracleMonitoringTools.md) |
+
+---
+
 ## 📬 Contact & Contributions
 
 If you find this resource useful or want to contribute, feel free to fork the repo and submit pull requests. For any questions, open an issue or reach out directly.
