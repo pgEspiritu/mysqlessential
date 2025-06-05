@@ -157,6 +157,14 @@ This course is ideal for:
 
 ---
 
+## 11. HeatWave
+
+| Subtopic | Description | Link |
+|----------|-------------|------|
+| ☁️ HeatWave | Introduction to MySQL HeatWave and its role in accelerating analytics workloads. | [View Repository](Heatwave.md) |
+| ✨ Features and Benefits | Key capabilities, advantages, and business impact of using HeatWave. | [View Repository](HeatwaveFeaturesBenefits.md)
+
+---
 
 ## 📬 Contact & Contributions
 
