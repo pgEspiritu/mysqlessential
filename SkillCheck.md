@@ -8,9 +8,9 @@
 **Which statement is true about the data directory?**
 
 - [ ] It is configured automatically when you install MySQL from binary archive.  
-- [ ] It is a mandatory setting in the my.cnf file.  
+- [x] It is a mandatory setting in the my.cnf file.  
 - [ ] It is empty until you create a user database.  
-- [x] It contains the my.cf and temporary files.  
+- [ ] It contains the my.cf and temporary files.  
 
 > **Explanation**:  
 The data directory setting `datadir` specifies the default location of system and user databases, and is one of the settings for file locations. Other settings include locations for temporary files and configuration files.
