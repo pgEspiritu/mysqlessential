@@ -158,9 +158,9 @@ MySQL offers Community Edition (free) and Commercial Edition (paid).
 **What does the Oracle commercial licensing option allow businesses to do?**
 
 - [ ] Use MySQL Enterprise Edition for free  
-- [x] Use MySQL in their products with other third-party commercial products  
+- [ ] Use MySQL in their products with other third-party commercial products  
 - [ ] Pay a reduced price for MySQL Community Edition  
-- [ ] Use MySQL code in their products and keep their code private  
+- [x] Use MySQL code in their products and keep their code private  
 
 > **Explanation**:  
 Oracle’s commercial license allows closed-source use of MySQL in commercial products.
