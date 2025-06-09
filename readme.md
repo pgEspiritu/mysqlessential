@@ -166,6 +166,12 @@ This course is ideal for:
 
 ---
 
+## ✅ BONUS: Skill Check
+
+Try this [SKILLCHECK](#).
+
+---
+
 ## 📬 Contact & Contributions
 
 If you find this resource useful or want to contribute, feel free to fork the repo and submit pull requests. For any questions, open an issue or reach out directly.
