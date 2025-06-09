@@ -301,3 +301,130 @@ Dynamic privileges are granted by the server, plugins, or components at runtime.
 MySQL Enterprise Authentication supports external methods like LDAP, PAM, Kerberos, and FIDO.
 
 ---
+
+# MySQL Enterprise Multiple Choice Answers
+
+---
+
+### 21. Which product can mitigate the risk of SQL Injection attacks?
+- [x] MySQL Enterprise Firewall  
+- [ ] MySQL Enterprise Audit  
+- [ ] Oracle Enterprise Manager  
+- [ ] MySQL Shell  
+
+---
+
+### 22. In which two ways can you install the MySQL Enterprise Masking and De-Identification feature?
+- [x] Plugin  
+- [x] Component  
+- [ ] Stored Procedure  
+- [ ] Configuration File  
+- [ ] Tablespace  
+
+---
+
+### 23. Against what does MySQL Enterprise Firewall provide real-time protection?
+- [ ] Virus  
+- [ ] Denial of Service (DoS) Attack  
+- [x] SQL Injection  
+- [ ] Brute Force Attack  
+
+---
+
+### 24. When using MySQL Enterprise Transparent Data Encryption (TDE), which key must be stored outside the database?
+- [x] Master  
+- [ ] Private  
+- [ ] Public  
+- [ ] Tablespace  
+- [ ] Primary  
+
+---
+
+### 25. Which two formatting options are supported by MySQL Enterprise Audit?
+- [ ] Text  
+- [x] JSON  
+- [x] XML  
+- [ ] YAML  
+- [ ] SQL  
+
+---
+
+### 26. What file can you encrypt using MySQL Enterprise Transparent Data Encryption (TDE)?
+- [ ] Configuration File (my.cnf or my.ini)  
+- [ ] SSL Key File  
+- [ ] General Query, Slow Query, and Error Log File  
+- [x] Tablespace File  
+
+---
+
+### 27. What makes a database backup effective?
+- [ ] Scheduling the backup  
+- [ ] Monitoring the backup for consistency  
+- [ ] Not exceeding limitations for the backup resources  
+- [x] Being able to restore the backup data  
+
+---
+
+### 28. What must you do to restore from a backup using MySQL Enterprise Backup?
+- [ ] Review the SQL script generated to make sure it is valid.  
+- [ ] Unzip the MySQL Enterprise Backup file.  
+- [ ] Shut down the MySQL database system.  
+- [x] Remove any previous files from the MySQL data directory.  
+
+---
+
+### 29. What is the MySQL Enterprise Backup utility designed for?
+- [ ] Create a snapshot of the MySQL storage medium  
+- [ ] Perform upgrades of MySQL systems  
+- [ ] Create Logical backup of MySQL systems  
+- [x] Create Physical backup of MySQL systems  
+
+---
+
+### 30. Which statement is true about the mysqldump utility?
+- [ ] mysqldump is a standard way to create physical backups.  
+- [ ] mysqldump is excellent for backing up large databases.  
+- [ ] mysqldump is fast and does not require locking tables.  
+- [x] The mysqldump output is a human-readable text file with SQL statements.  
+
+---
+
+### 31. How does MySQL Enterprise Backup support optimistic backup?
+- [ ] It locks up tables during the backup process.  
+- [ ] It ignores data from busy tables.  
+- [ ] It puts the database server in read-only mode.  
+- [x] It records all data including data from busy tables.  
+
+---
+
+### 32. What is one requirement on the source to enable source-replica replication?
+- [x] Source must have binary logging enabled.  
+- [ ] Source must have the sql_require_primary_key variable set to on.  
+- [ ] Source must have all tables use InnoDB storage engine only.  
+- [ ] Source must have its binary log format set to statement based.  
+
+---
+
+### 33. Which thread is responsible for taking a copy of the binary log events from the source and writing those to a relay log?
+- [x] I/O thread  
+- [ ] I/O binlog dump thread  
+- [ ] SQL thread  
+- [ ] Connection thread  
+
+---
+
+### 34. What uses the Relay Log?
+- [ ] Source  
+- [x] Replica  
+- [ ] Both Source and Replica  
+- [ ] Neither  
+
+---
+
+### 35. Which thread maintains an open connection to the source when the replica connects and is used to send the binary log contents from the source to a replica?
+- [ ] I/O thread  
+- [ ] Connection thread  
+- [ ] SQL thread  
+- [x] I/O binlog dump thread  
+
+---
