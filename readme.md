@@ -168,7 +168,7 @@ This repository is organized into several subtopics for easy reference and modul
 
 ## ✅ BONUS: Skill Check
 
-Try this [SKILLCHECK](#).
+Try this [**SKILLCHECK**](SkillCheck.md).
 
 ---
 
