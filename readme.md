@@ -28,6 +28,16 @@ By completing this course, you will be able to:
 
 ---
 
+## 💡 Ideal For
+
+This course is ideal for:
+- Database Administrators (DBAs)
+- Solution Architects
+- Cloud Engineers
+- IT Professionals aiming to modernize data infrastructure
+
+---
+
 ## 📂 Repository Structure
 
 This repository is organized into several subtopics for easy reference and modular learning:
@@ -90,16 +100,6 @@ This repository is organized into several subtopics for easy reference and modul
 | 👤 Authentication | Basic authentication mechanisms and concepts in MySQL. | [View Repository](Authentication.md) |
 | 🧩 Authentication in MySQL Enterprise Edition | Enhanced authentication features available in MySQL Enterprise Edition. | [View Repository](AuthenticationInMySQLEnterpriseEdition.md) |
 | ✅ Authorization | Managing user privileges and controlling access to database resources. | [View Repository](Authorization.md) |
-
----
-
-## 💡 Ideal For
-
-This course is ideal for:
-- Database Administrators (DBAs)
-- Solution Architects
-- Cloud Engineers
-- IT Professionals aiming to modernize data infrastructure
 
 ---
 
