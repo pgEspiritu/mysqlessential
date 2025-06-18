@@ -59,11 +59,11 @@ This repository is organized into several subtopics for easy reference and modul
 
 | Subtopic | Description | Link |
 |----------|-------------|------|
-| 🏗️ Installation and Architecture | Overview of MySQL installation process and architectural components. | [View Repository](installation-and-architecture.md) |
-| 💾 Installing MySQL | Step-by-step guide to installing MySQL on various platforms. | [View Repository](installing-mysql.md) |
-| 👥 Initial User Accounts | Default users and best practices for managing user access. | [View Repository](initial-user-accounts.md) |
-| ⚙️ Initial Configuration | Basic configuration settings for optimal performance and security. | [View Repository](initial-configuration.md) |
-| 🔄 Upgrading MySQL | Methods and considerations for safely upgrading MySQL versions. | [View Repository](upgrading-mysql.md) |
+| 🏗️ Installation and Architecture | Overview of MySQL installation process and architectural components. | [View Repository](InstallationAndArchitecture.md) |
+| 💾 Installing MySQL | Step-by-step guide to installing MySQL on various platforms. | [View Repository](InstallingMYSQL.md) |
+| 👥 Initial User Accounts | Default users and best practices for managing user access. | [View Repository](InitialUserAccount.md) |
+| ⚙️ Initial Configuration | Basic configuration settings for optimal performance and security. | [View Repository](InitialConfiguration.md) |
+| 🔄 Upgrading MySQL | Methods and considerations for safely upgrading MySQL versions. | [View Repository](UpgradingMySQL.md) |
 
 ---
 
